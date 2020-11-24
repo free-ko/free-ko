@@ -1,10 +1,11 @@
 ### Hi there, I'm Young-wock👋
 
 
-Good day!😀  
+Good day! 😀  
 I'm Young-wock Ko, a passionate self-taught Front-End Developer from South Korea.
 
-- 🔥 I'm currently working on my project
+- 🔥 I'm currently working on my project [Kakao Clone](https://free-ko.github.io/study-clone-kakao2020/)
+- 🌈 I'm currently learning JS [Catching Carrot](https://free-ko.github.io/project-js-game/)
 
 <br>
 
