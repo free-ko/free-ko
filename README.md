@@ -5,8 +5,6 @@ Good day! 😀
 I'm Young-wock Ko, a passionate self-taught Front-End Developer from South Korea.
 
 - 💪 I am writing down what I learned. [Blog](https://free-ko.github.io/)
-- 👨‍💻 I am currently developing an app with React Native. [에픽모바일](https://epicmoble.notion.site/16692ed4babe4c798c6a23cba576edd9)
-- 🔥 I'm learning React TDD [코드숨](https://www.codesoom.com/)
 
 <br>
 
