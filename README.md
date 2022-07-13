@@ -1,30 +1,39 @@
-## Hi there, I'm Young-wock👋
-
-
-Good day! 😀  
-I'm Young-wock Ko, a passionate self-taught Front-End Developer from South Korea.
-
-- 💪 I am writing down what I learned. [Blog](https://free-ko.github.io/)
+> 일희일비 하지말자.
+> 남들과 비교하지 말고, 차분히 나의 속도로 하나씩 채워가자.
+>
+> **그럼 반드시 나아진다**
 
 <br>
 
-### Learning Language and Tools:
+<!-- ################################################################################################################ -->
+<p>
+  <a href="x">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/free-ko&count_bg=%234CD3FC&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
+  </a>
+</p>
+<p>
+  <!--<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goflvhxj2547">-->
+</p>
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<hr>
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  
+### 😎 지금까지 시도한 것.
 
 <br>
 <br>
 <br>
 
-### Contact with me:
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/kyw__free/)
+### 🤙 Contact
+<ul>
+  <li>
+    <a href="https://free-ko.github.io/">
+      <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
+    </a>
+    <a href="https://www.notion.so/1-821c4ed3a8424717a00ce5692107cab4">
+      <img src="https://img.shields.io/badge/Resume-E44332?style=flat-square&logo=Todoist&logoColor=white"/>
+    </a>
+    <a href="mailto:youngwock92@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+  </li>
+</ul>
