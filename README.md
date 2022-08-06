@@ -1,7 +1,7 @@
-> 일희일비 하지말자.
-> 남들과 비교하지 말고, 차분히 나의 속도로 하나씩 채워가자.
+> 어렵게 생각하지 말고,
+> 최대한 `Simple`하게 생각하면서 개발 하자!!!
 >
-> **그럼 반드시 나아진다**
+> **Just Do It**
 
 <br>
 
@@ -17,10 +17,14 @@
 
 <hr>
 
-### 😎 Challenge
-- 2021.1 ~ 2022.06 [(주)에픽모바일](https://epicmoble.notion.site/16692ed4babe4c798c6a23cba576edd9) - 크로스 플랫폼 개발
+### ✅ Career
+- 2021.1 ~ 2022.06 [(주)에픽모바일](https://epicmoble.notion.site/16692ed4babe4c798c6a23cba576edd9) - 프론트엔드 개발
+- 2022.07 ~ [(주)넥스트 유니콘](https://www.nextunicorn.kr/service/investor?utm_source=google&utm_medium=cpc&utm_campaign=nu&utm_content=newnu&gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2ETX9XLP2cz-zcvjAfVdp0JxCZQ2RJmRnY5Ts9gItfl5vhhmOuELRwaAqG8EALw_wcB) - 프론트엔드 개발
+
+<br>
+
+### 😎 Study
 - 2022.03 ~ 2022.06 [코드숨](https://www.codesoom.com/) - TDD React 학습
-- 2022.07 ~ [(주)넥스트 유니콘](https://www.nextunicorn.kr/service/investor?utm_source=google&utm_medium=cpc&utm_campaign=nu&utm_content=newnu&gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2ETX9XLP2cz-zcvjAfVdp0JxCZQ2RJmRnY5Ts9gItfl5vhhmOuELRwaAqG8EALw_wcB) - 프론트엔드 개발자
 
 <br>
 
