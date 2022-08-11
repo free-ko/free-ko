@@ -1,21 +1,5 @@
-> 어렵게 생각하지 말고,
-> 최대한 `Simple`하게 생각하면서 개발 하자!!!
->
-> **Just Do It**
+![header](https://capsule-render.vercel.app/api?type=wave&color=E45D4C&height=240&section=header&text=Keep%20going&fontSize=60&fontColor=ffffff&fontAlignY=30&animation=twinkling)
 
-<br>
-
-<!-- ################################################################################################################ -->
-<p>
-  <a href="x">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/free-ko&count_bg=%234CD3FC&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
-  </a>
-</p>
-<p>
-  <!--<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goflvhxj2547">-->
-</p>
-
-<hr>
 
 ### ✅ Career
 - 2021.1 ~ 2022.06 [(주)에픽모바일](https://epicmoble.notion.site/16692ed4babe4c798c6a23cba576edd9) - 프론트엔드 개발
@@ -41,4 +25,14 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
   </li>
+  <li>
+    <p>
+      <a href="x">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/free-ko&count_bg=%234CD3FC&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
+      </a>
+    </p>
+    <p>
+      <!--<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goflvhxj2547">-->
+    </p>
 </ul>
+
