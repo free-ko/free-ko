@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=240&section=header&text=Keep%20going&fontSize=60&fontColor=ffffff&fontAlignY=30&animation=twinkling)
-
-
 ### ✅ Career
 - 2021.1 ~ 2022.06 [(주)에픽모바일](https://epicmoble.notion.site/16692ed4babe4c798c6a23cba576edd9) - 프론트엔드 개발
 - 2022.07 ~ [(주)넥스트 유니콘](https://www.nextunicorn.kr/service/investor?utm_source=google&utm_medium=cpc&utm_campaign=nu&utm_content=newnu&gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2ETX9XLP2cz-zcvjAfVdp0JxCZQ2RJmRnY5Ts9gItfl5vhhmOuELRwaAqG8EALw_wcB) - 프론트엔드 개발
