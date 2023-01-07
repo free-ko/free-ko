@@ -15,9 +15,9 @@
 <br>
 
 ### 📚 Study
-- 2022.03 ~ 2022.06 [코드숨](https://www.codesoom.com/) - TDD React 학습
-- 2022.08 ~ 2022.09 [이펙티브 타입스크립트 스터디](https://github.com/FECrash/Effective-TypeScript) - TS 학습
 - 2022.12 ~ [함수형 프로그래밍 스터디](https://github.com/FECrash/FunctionalProgramming) - 함수형 프로그래밍 학습
+- 2022.08 ~ 2022.09 [이펙티브 타입스크립트 스터디](https://github.com/FECrash/Effective-TypeScript) - TS 학습
+- 2022.03 ~ 2022.06 [코드숨](https://www.codesoom.com/) - TDD React 학습
 
 <br>
 
