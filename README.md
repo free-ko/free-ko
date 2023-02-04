@@ -1,5 +1,5 @@
 ### 👋 소개
-안녕하세요. 소프트웨어 개발자 고영욱입니다. <br/>
+안녕하세요. 프론트엔드 개발자 고영욱입니다. <br/>
 삶에 도움을 주는 일에 관심이 있습니다. <br/>
 삶에 도움을 준다는 것은, 생활(生活)에 영향을 주는 보람된 일이라고 생각합니다. <br/>
 많은 사람의 생활에 도움을 주는 소프트웨어를 만들고 싶습니다.
@@ -15,6 +15,7 @@
 <br>
 
 ### 📚 Study
+- 2023.00 ~ [글또](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기
 - 2022.12 ~ [함수형 프로그래밍 스터디](https://github.com/FECrash/FunctionalProgramming) - 함수형 프로그래밍 학습
 - 2022.08 ~ 2022.09 [이펙티브 타입스크립트 스터디](https://github.com/FECrash/Effective-TypeScript) - TS 학습
 - 2022.03 ~ 2022.06 [코드숨](https://www.codesoom.com/) - TDD React 학습
