@@ -32,7 +32,7 @@
     <a href="https://free-ko.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
     </a>
-    <a href="https://www.notion.so/1-821c4ed3a8424717a00ce5692107cab4" target="_blank">
+    <a href="https://ko-young-wock.notion.site/1-821c4ed3a8424717a00ce5692107cab4" target="_blank">
       <img src="https://img.shields.io/badge/Resume-E44332?style=flat-square&logo=Todoist&logoColor=white"/>
     </a>
     <a href="mailto:youngwock92@gmail.com" target="_blank">
