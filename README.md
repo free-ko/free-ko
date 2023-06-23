@@ -13,6 +13,7 @@
 ### 💻 Career
 |회사|역할|재직 기간|
 |---|---|---|
+| [모던라이언](https://www.modernlion.io/) | Frontend Developer | 23.05 ~ |
 | [넥스트유니콘](https://www.nextunicorn.kr/) | Frontend Developer | 22.05 ~ 23.04 |
 | [에픽모바일](https://epicmoble.notion.site/16692ed4babe4c798c6a23cba576edd9) | Frontend Developer | 18.12 ~ 22.05 |
 
