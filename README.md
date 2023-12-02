@@ -20,7 +20,8 @@
 <br>
 
 ### 📚 Study
-- 2023.01 ~ 2023.07 [글또](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
+- 2023.12 ~  [글또 9기](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
+- 2023.01 ~ 2023.07 [글또 8기](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
 - 2022.12 ~ 2023.02 [함수형 프로그래밍 스터디](https://github.com/FECrash/FunctionalProgramming) - 함수형 프로그래밍 학습
 - 2022.08 ~ 2022.09 [이펙티브 타입스크립트 스터디](https://github.com/FECrash/Effective-TypeScript) - TS 학습
 - 2022.03 ~ 2022.06 [코드숨](https://www.codesoom.com/) - TDD React 학습
@@ -33,7 +34,7 @@
     <a href="https://free-ko.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
     </a>
-    <a href="https://ko-young-wock.notion.site/1-821c4ed3a8424717a00ce5692107cab4" target="_blank">
+    <a href="https://www.kaynote.xyz" target="_blank">
       <img src="https://img.shields.io/badge/Resume-E44332?style=flat-square&logo=Todoist&logoColor=white"/>
     </a>
     <a href="mailto:youngwock92@gmail.com" target="_blank">
