@@ -21,6 +21,7 @@
 <br>
 
 ### 📚 Study
+- 2024.10 ~  [글또 10기](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
 - 2023.12 ~ 2024.06 [글또 9기](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
 - 2023.01 ~ 2023.07 [글또 8기](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
 - 2022.12 ~ 2023.02 [함수형 프로그래밍 스터디](https://github.com/FECrash/FunctionalProgramming) - 함수형 프로그래밍 학습
