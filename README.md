@@ -33,7 +33,7 @@
 ### 🤙 Contact
 <ul>
   <li>
-    <a href="https://free-ko.github.io/" target="_blank">
+    <a href="https://kay-blog-v2.vercel.app/docs" target="_blank">
       <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
     </a>
     <a href="https://www.kaynote.xyz" target="_blank">
