@@ -43,14 +43,5 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
   </li>
-  <li>
-    <p>
-      <a href="x">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/free-ko&count_bg=%234CD3FC&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
-      </a>
-    </p>
-    <p>
-      <!--<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goflvhxj2547">-->
-    </p>
 </ul>
 
