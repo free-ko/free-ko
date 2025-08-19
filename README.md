@@ -14,16 +14,15 @@
 ### 💻 Career
 |회사|역할|재직 기간|
 |---|---|---|
-| [모던라이언](https://www.modernlion.io/) | Frontend Developer | 23.05 ~ |
+| [마카롱팩토리](https://mycle.co.kr/index.html) | Frontend Developer | 25.05 ~  |
+| [모던라이언](https://www.modernlion.io/) | Frontend Developer | 23.05 ~ 25.05 |
 | [넥스트유니콘](https://www.nextunicorn.kr/) | Frontend Developer | 22.05 ~ 23.04 |
 | [에픽모바일](https://epicmoble.notion.site/16692ed4babe4c798c6a23cba576edd9) | Frontend Developer | 21.01 ~ 22.05 |
 
 <br>
 
 ### 📚 Study
-- 2024.10 ~ 2025.04 [글또 10기](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
-- 2023.12 ~ 2024.06 [글또 9기](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
-- 2023.01 ~ 2023.07 [글또 8기](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
+- 2023.01 ~ 2025.04 [글또 8 - 10기](https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516) - 개발자 글쓰기 커뮤니티
 - 2022.12 ~ 2023.02 [함수형 프로그래밍 스터디](https://github.com/FECrash/FunctionalProgramming) - 함수형 프로그래밍 학습
 - 2022.08 ~ 2022.09 [이펙티브 타입스크립트 스터디](https://github.com/FECrash/Effective-TypeScript) - TS 학습
 - 2022.03 ~ 2022.06 [코드숨](https://www.codesoom.com/) - TDD React 학습
@@ -31,17 +30,15 @@
 <br>
 
 ### 🤙 Contact
-<ul>
-  <li>
-    <a href="https://kay-blog-v2.vercel.app/docs" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
-    </a>
-    <a href="https://www.kaynote.xyz" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-E44332?style=flat-square&logo=Todoist&logoColor=white"/>
-    </a>
-    <a href="mailto:youngwock92@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
-  </li>
-</ul>
+<div>
+  <a href="https://kay-blog-v2.vercel.app/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/>
+  </a>
+  <a href="https://www.kaynote.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-E44332?style=flat-square&logo=Todoist&logoColor=white"/>
+  </a>
+  <a href="mailto:youngwock92@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</div>
 
